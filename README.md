@@ -1,1 +1,1 @@
-"# softserve_homework" 
+# softserve_homework
